@@ -1,0 +1,30 @@
+{
+  "name": "mytinyrpc",
+  "version": "1.0.0",
+  "description": "myTinyRpc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RealHath/myTinyRpc.git"
+  },
+  "author": "RealHath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RealHath/myTinyRpc/issues"
+  },
+  "homepage": "https://github.com/RealHath/myTinyRpc#readme",
+  "keywords": [
+    "rpc",
+    "log"
+  ],
+  "engines": {
+    "node": ">=14.17"
+  },
+  "devDependencies": {
+    "@types/typescript": "^2.0.0",
+    "typescript": "^5.3.3"
+  }
+}
