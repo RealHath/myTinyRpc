@@ -21,10 +21,14 @@
     "log"
   ],
   "engines": {
-    "node": ">=14.17"
+    "node": ">=21.2.0"
   },
   "devDependencies": {
+    "@types/node": "^20.10.4",
     "@types/typescript": "^2.0.0",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "node": "^21.2.0"
   }
 }
