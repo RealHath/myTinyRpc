@@ -9,7 +9,7 @@ class ListNode<T> {
     }
 }
 /* 双链表base，还能用来实现queue */
-export class LinkListBase<T> {
+export abstract class LinkListBase<T> {
     private head: ListNode<T>;
     private tail: ListNode<T>;
     private capacity: number;
